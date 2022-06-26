@@ -4,4 +4,4 @@
 
 Try hosting a package on GitHub Packages registry
 
-If you do not know where to begin, then checkout my greatest wiki page.
+If you do not know where to begin, then checkout [my greatest wiki page](https://github.com/naiithink/try-qq-gh-packages/wiki).
