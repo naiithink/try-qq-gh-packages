@@ -1,6 +1,6 @@
 {
   "name": "@naiithink/try-qq-gh-packages",
-  "version": "0.0.0",
+  "version": "1.0.0-rc.1",
   "description": "A simple hello world package",
   "main": "index.js",
   "scripts": {
